@@ -1,0 +1,1 @@
+{"name":"Local: Main","url":"/Users/youngsang.kwon/myplace/baekjoon/1012/Main.java","tests":[{"id":1751934483597,"input":"1\n5 3 6\n0 2\n1 2\n2 2\n3 2\n4 2\n4 0","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/youngsang.kwon/myplace/baekjoon/1012/Main.java","group":"local","local":true}
